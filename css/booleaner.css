@@ -32,3 +32,12 @@ main {
     font-size: 2rem;
     padding-top: 10px;
 }
+
+#footerbooleaner {
+    color: lightskyblue;
+}
+
+.footertitolo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(109, 106, 106);
+}
