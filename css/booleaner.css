@@ -24,8 +24,9 @@ html {
 }
 
 main {
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
+   
 }
 
 .titoloprincipale {
@@ -40,4 +41,27 @@ main {
 .footertitolo {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(109, 106, 106);
+}
+
+.fototim {
+    padding-top: 10px;
+}
+
+#sottotitolifoto {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 20px;
+}
+
+#primoparagrafo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 20px;
+}
+
+#evidenziato {
+    background-color: yellow;
+}
+
+#lista {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 20px;
 }
