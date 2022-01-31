@@ -22,3 +22,13 @@ html {
     height: 100px;
     padding-top: 50px;
 }
+
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.titoloprincipale {
+    font-size: 2rem;
+    padding-top: 10px;
+}
