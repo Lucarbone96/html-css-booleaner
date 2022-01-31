@@ -9,9 +9,16 @@ html {
 }
 
 .contenitore-logo {
+    border: 1px solid lightseagreen;
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    background-color: lightseagreen;
+    background-size: contain;
     
-    
-    
-    
-    
+}
+
+#logo {
+    width: 150px;
+    height: 100px;
+    padding-top: 50px;
 }
